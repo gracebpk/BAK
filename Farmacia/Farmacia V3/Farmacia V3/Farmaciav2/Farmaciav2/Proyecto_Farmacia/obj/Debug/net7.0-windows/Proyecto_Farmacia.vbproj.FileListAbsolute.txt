@@ -1,0 +1,112 @@
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.exe
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.deps.json
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.pdb
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.Form1.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FormPresentacion.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FormSeguridad.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarCategorias.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarClientes.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarProductos.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarProveedores.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmCategorias.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmClientes.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmProductos.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmProveedores.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.MDI_Factura.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.Resources.resources
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.AssemblyInfo.vb
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.CopyComplete
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\refint\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.pdb
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\ref\Proyecto_Farmacia.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.exe
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.deps.json
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.runtimeconfig.json
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.pdb
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.Form1.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FormPresentacion.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FormSeguridad.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarCategorias.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarClientes.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarProductos.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarProveedores.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmCategorias.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmClientes.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmProductos.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmProveedores.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.MDI_Factura.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.Resources.resources
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.GenerateResource.cache
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.AssemblyInfoInputs.cache
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.AssemblyInfo.vb
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.CopyComplete
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\refint\Proyecto_Farmacia.dll
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.pdb
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.genruntimeconfig.cache
+C:\Users\labc205\Desktop\farm\ing2-main\ing2-main\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\ref\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.exe
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.deps.json
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\Proyecto_Farmacia.pdb
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.Form1.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FormPresentacion.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FormSeguridad.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarCategorias.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarCatTipoVenta.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarClientes.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarLaboratorios.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarProductos.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmAgregarProveedores.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmCategorias.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmCatTipoVenta.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmClientes.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmLaboratorios.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmProductos.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.FrmProveedores.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.MDI_Factura.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.Resources.resources
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.AssemblyInfo.vb
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.vbproj.CopyComplete
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\refint\Proyecto_Farmacia.dll
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.pdb
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\Proyecto_Farmacia.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Farmacia V3\Farmacia V3\Farmaciav2\Farmaciav2\Proyecto_Farmacia\obj\Debug\net7.0-windows\ref\Proyecto_Farmacia.dll
